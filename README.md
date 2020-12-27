@@ -16,13 +16,17 @@ Instruction:
 
 
 ======Project GUI======
+
 not finished due to lack of time :(
+
 but we will improve GUI in the future
 
 Steps:
+
   almost the same process as Project Terminal
  
 Instruction:
+
   Terminal --> 'python gui.py' (PS: do not click botton when it is still loading)
 
 
