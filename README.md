@@ -1,4 +1,4 @@
-This is our group's submission to the Tech4Good 2020 Hackathon, which we won third place overall.
+This is our group's submission to the Tech4Good 2020 Hackathon. We won first-place in the rural education track.
 
 We created a mandarin fluency evaluation app that provides a mandarin poem for the user to read, records the user's reading, and evaluates the user's mandarin fluency (through metrics such as phonetics, tone, flunecy, and completion) via a backend API.
 
